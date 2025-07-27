@@ -4,12 +4,12 @@ Throughout this collection, I’ve analyzed structured datasets from various ind
 
 Projects Covered:
 ----------------
-Movies Analysis
-Sales Forecasting
-Ecommerce Funnel
-FastF1 Telemetry
-Spotify Listening Trends
-Superstore Insights
+Movies Analysis,
+Sales Forecasting,
+Ecommerce Funnel,
+FastF1 Telemetry,
+Spotify Listening Trends,
+Superstore Insights,
 
 Each project was developed using real or demo data and includes a clear flow from data ingestion to final insights. Many modules were implemented using class structures to allow reusable analysis across datasets.
 
