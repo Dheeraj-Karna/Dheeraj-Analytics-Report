@@ -1,14 +1,21 @@
-# Dheeraj-Analytics-Report
-A curated collection of end-to-end analytics projects combining Python code, data visualization, and dashboard design. This repository showcases my work across telemetry analysis, campaign performance, user segmentation, and funnel optimization—bridging digital marketing with data analytics.
-What's inside:
-  
-/codes – Modular scripts and notebooks for FastF1 telemetry, Spotify behavior analysis, eCommerce funnel diagnostics, and sales forecasting
-/dashboards – Visual dashboards built using Adobe Analytics, Looker Studio, and Python libraries to decode business performance
+Overview:
+---------
+Throughout this collection, I’ve analyzed structured datasets from various industries using robust data pipelines built with Pandas, enhanced through Object-Oriented Programming (OOP) techniques—primarily encapsulation and class-based modularity. I’ve paired these analyses with insightful visualizations using Matplotlib and Seaborn, including bar charts, line graphs, scatter plots, and outlier identification.
 
-Tools & Skills Demonstrated
+Projects Covered:
+----------------
+Movies Analysis
+Sales Forecasting
+Ecommerce Funnel
+FastF1 Telemetry
+Spotify Listening Trends
+Superstore Insights
 
-Pandas analysis,statistics
-Adobe Analytics, Looker Studio
-Data storytelling and campaign optimization
-Cohort analysis and segmentation logic
-Built to reflect my transition from digital strategist to analytics specialist, this portfolio connects raw data to decisions.
+Each project was developed using real or demo data and includes a clear flow from data ingestion to final insights. Many modules were implemented using class structures to allow reusable analysis across datasets.
+
+Technical Highlights:
+---------------------
+Python (Pandas, OOP, modular design)
+Visualization: Seaborn, Matplotlib (bar, line, scatter, outlier detection)
+Data Sources: CSV uploads, API integration, SDK samples, PostgreSQL queries
+Tools & Platforms: Adobe Analytics, Looker Studio, Tableau
