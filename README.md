@@ -1,21 +1,38 @@
-Overview:
----------
-Throughout this collection, I’ve analyzed structured datasets from various industries using robust data pipelines built with Pandas, enhanced through Object-Oriented Programming (OOP) techniques—primarily encapsulation and class-based modularity. I’ve paired these analyses with insightful visualizations using Matplotlib and Seaborn, including bar charts, line graphs, scatter plots, and outlier identification.
+# Dheeraj Karna – Marketing Analytics Portfolio
 
-Projects Covered:
-----------------
-Movies Analysis,
-Sales Forecasting,
-Ecommerce Funnel,
-FastF1 Telemetry,
-Spotify Listening Trends,
-Superstore Insights,
+Welcome! I'm a Senior Marketing Analytics professional with 7+ years of experience bridging digital marketing, web analytics, and data-driven decision-making. This portfolio showcases my hands-on work across **Adobe Analytics (CJA), GA4, Python (Pandas), Tableau, and Looker Studio**—with a focus on **funnel diagnostics, campaign attribution, and customer journey insights**.
 
-Each project was developed using real or demo data and includes a clear flow from data ingestion to final insights. Many modules were implemented using class structures to allow reusable analysis across datasets.
+---
 
-Technical Highlights:
----------------------
-Python (Pandas, OOP, modular design)
-Visualization: Seaborn, Matplotlib (bar, line, scatter, outlier detection)
-Data Sources: CSV uploads, API integration, SDK samples, PostgreSQL queries
-Tools & Platforms: Adobe Analytics, Looker Studio, Tableau
+## What You'll Find Here
+
+### `Codes/`
+Python scripts and logic used for:
+- **Behavioral segmentation** using Python
+- **Campaign performance analysis** with attribution logic
+- **Funnel drop-off detection** and cohort analysis
+- **Data cleaning and transformation** for dashboard-ready datasets
+
+Each script includes comments and modular structure for easy reuse in consulting or product analytics environments.
+
+### `Visualisations/`
+Dashboards and visual storytelling built in:
+- **Adobe Customer Journey Analytics (CJA)** – Omnichannel funnel analysis, attribution overlap, and segment insights
+- **Looker Studio** – SEO performance, campaign ROI, and traffic breakdowns
+- **Tableau** – Executive dashboards for conversion trends and channel performance
+
+Each dashboard is designed for **stakeholder clarity**, with annotations and business impact summaries.
+
+---
+
+## Selected Highlights
+
+- Built CJA dashboards to uncover **20% drop-off in mobile checkout**, leading to UX fixes and improved conversion
+- Streamlined campaign reporting using Python + GA4, reducing turnaround time by **40%**
+- Delivered analytics training to cross-functional teams, improving data fluency and adoption
+
+---
+## Let’s Connect
+
+If you're hiring for analytics roles or want to see how I turn dashboards into decisions, feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/dheeraj-karna/).
+
